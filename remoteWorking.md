@@ -52,6 +52,7 @@
 - Warning: Not for everyone! Remember time right before your final tests? Bet your rooms have never been that clean. ;) Beware of procrastination!
 - Proactively fight social isolation
 - overlapping timezones
+- declare "default-timezone". What is meant with "Let's meet at 8 a.m.?"
 - complete transparency (especially for documents). There's no "just go over to Sven and ask him" because Sven is in Helsinki and sleeping right now.
 - virtual water cooler
 - force employees to stop working: "Just checking mails right after dinner with my family" very dangerous
@@ -77,7 +78,46 @@
 - at least teamleaders, better everyone in the team has to be coached in solving conflicts because these are harder to solve from distance
 - coaching of communication of cultural differences and how to deal with them (for example different understand of what "9 am" means: "Indian time" or "German time"?)
 
-# Tools
+## Moderating remote meetings
+- every meeting needs moderator role, especially remote meeting
+- [a conference call in real life (youtube, 4:04)](https://www.youtube.com/watch?v=DYu_bGbZiiQ)
+- no long presentations without interactions of participants. Develop drawings etc. during presentation to create involvement and action
+
+### phases of a meeting
+1. Beginning and smalltalk => check list of participants, create setting, let everybody speak
+2. Introduction = Warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
+3. Visualized content. Activate participants per direct speech, proactively get feedback
+4. Wrap up and tasks: Get agreement about the content of the meeting
+5. Closing
+6. Postprocessing and retrospective "What was good, what can be done better next time?"
+
+### Moderator before the meeting
+- being on time one of the most important things when working remotely
+- to be ready for unforeseen events: login at least 15 minutes before meeting begin (remaining time can be used with muted mic)
+- makes everyone else join at least 5 minutes before begin
+
+### Moderator at the meeting
+- introduces meeting with "Can everybody here me?" => "Yes" from everyone = confirmation that audio is great.
+- if participants don't usually meet in this constellation, make everybody talk a little via simple questions like "Everybody had a great weekend?", "What's your favorite color/food/whatever?". Background: Surgeons do this to minimize fear of talking during an operation. That way, nobody has a psychological fear of calling out problems. 
+- checks video stream of everybody
+- keeps an eye to the chat - that's the remaining way of communication for those who suffered audio failure
+- makes everybody not speaking mute their microphones
+
+### Moderator after the meeting
+- in case of communication problems or misunderstandings: make team "overcommunicating" ("overuse" body language, facial expressions and gestures to communicate all the time) 
+
+### locations layout
+- best practice every participant sitting before his/her own webcam
+- only if that's not possible, use meeting room
+- remote-sitting colleagues have to be cared about in a special way:
+   - at the beginning, state names of people present
+   - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is draweing something on the flipchart")
+   - moderator interrupts and eliminates auxiliary conversations in the meeting room (hard to understand and follow remotely)
+   - always ask remote participants first (to keep them in the loop)
+   - make everybody state their name when beginning to talk
+- in bigger meetings, use a comoderator who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, comoderator interrupts moderator if urgent questions arise.
+
+## Tools
 - misconception, that it's just about the tools
 - requirements:
   - text
@@ -86,6 +126,7 @@
   - screen sharing (code review, presenting)
   - good audio
   - knowing everyones current status
+  - collaborative working: Skype whiteboard, Etherpad, Piratepad
 - hardware:
   - multiple monitors (one just for video stream)
   - great cam
@@ -93,12 +134,12 @@
   - great headset
 - software:
   - shared calender (Outlook, Google)
-  - Skype
+  - Skype (show audio settings to check if mic is working + different views in meeting room to see everybody simultaneously)
   - teamview
   - Slack Chat
   - document management for ALL documents
 
-## How to use the tools
+### How to use the tools
 - In case of group-wide failure: have a backup communication channel (SlackChat if Skype fails) + recovery strategy ("If Skype fails to connect to our meeting room, let's meet in Slack and talk about what to do")
 - In case of individual failure: for every team member, have a way to connect (best backup: telephone)
 - establish a procedure for interrupts, for example ringing door bell during group conversation: write "Someone is at the door, brb" into the group-wide chat. => current speaker is not disturbed + everyone knows what's going on 
