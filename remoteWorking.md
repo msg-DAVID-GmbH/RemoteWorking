@@ -98,6 +98,11 @@
   - Slack Chat
   - document management for ALL documents
 
+## How to use the tools
+- In case of group-wide failure: have a backup communication channel (SlackChat if Skype fails) + recovery strategy ("If Skype fails to connect to our meeting room, let's meet in Slack and talk about what to do")
+- In case of individual failure: for every team member, have a way to connect (best backup: telephone)
+- establish a procedure for interrupts, for example ringing door bell during group conversation: write "Someone is at the door, brb" into the group-wide chat. => current speaker is not disturbed + everyone knows what's going on 
+
 # Variations
 - remote work != another country / continent. Imagine just working part time and not driving to work for just 3 hours.
 - working from onsite (location of customer) = working from inside the office = working from home
