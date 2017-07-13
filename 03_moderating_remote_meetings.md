@@ -36,3 +36,4 @@
    - always ask remote participants first (to keep them in the loop)
    - make everybody state their name when beginning to talk
 - in bigger meetings, use a comoderator who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, comoderator interrupts moderator if urgent questions arise.
+- when videochatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
