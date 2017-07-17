@@ -35,5 +35,5 @@
    - moderator interrupts and eliminates auxiliary conversations in the meeting room (hard to understand and follow remotely)
    - always ask remote participants first (to keep them in the loop)
    - make everybody state their name when beginning to talk
-- in bigger meetings, use a comoderator who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, comoderator interrupts moderator if urgent questions arise.
+- "ambassador-rule": in bigger meetings, use an ambassador who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, ambassador interrupts moderator if urgent questions arise.
 - when videochatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
