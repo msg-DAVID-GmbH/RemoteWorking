@@ -11,6 +11,20 @@
 - "real work" is done alone in the quite / in coffee shops
 - 400h commute time per year = time to develop "basecamp" (https://launchpad.37signals.com/basecamp)
 - relatively new concept because technology only available since a couple of years: internet, cheap fast portable computers, webcamps, headsets, ...
+- Remote = "everything outside of this floor", doesn't matter if India or coffee shop around the corner - "out is out"
+- provoking thought: "As a good developer, these days you have to be able to work remotely"
+
+## Generally a good idea?
+- new possibility of distributed work doesn't mean that every team should be remote!
+- distributed work != faster / better than co-located work
+- in many cases: gather developers around one desk = maximum performance because of quick communication paths + no technical and organizational overhead
+- also: remote working may make only sense with developers, not management or assistance (although there are digital assistants ...)
+- doesn't work in with every customer, every team member etc.
+- high level of self discipline necessary, high level of seniority, high level of self-organization: "What is the next thing I have to to to be successful?"
+- experience from senior colleague: "You cannot work remotely in the first years of your career"
+- "Everything that can go wrong in co-located mode can go REALLY REALLY wrong in remote-mode" (Martin Scholz)
+- remote working is learnable and has to be learned
+- focus of this workshop: cases, where distributed working is reality.
 
 ## Reputation
 - employees: Wanna have!
@@ -24,6 +38,7 @@
   - all smart phones and laptops have lock codes and can be wipped remotely
   - only use generated passwords that are managed via password safe
   - two factor authentication (additional dongle or app for pin)
+- Change of mindset: working remotely != "cheaper", but "We as tech-leaders need the best workers from around the world!" - that's an additional dimension to "think remote"
  
 ## Consequences
 ### If it works
