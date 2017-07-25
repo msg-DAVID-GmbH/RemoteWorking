@@ -1,4 +1,4 @@
-# RemoteWorking
+# Remote Working - What it is, what it can be for your team and how to make it so
 ## Meta: About this workshop
 This workshop teaches background knowledge and practical advice on how to work in a remote team. The content is primarily focused on software developers but should also be applicable for other branches.
 
