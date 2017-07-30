@@ -20,7 +20,7 @@
 - Participants are (kind of) trainers themselves - every team is different and something can be learned from each situation
 - hence: let's learn from each other
 - workshop has three ingredients:
-    1. 
+    1. "theoretical" stuff: observations and stories regarding remote work
     1. "practical stuff": Best practices, processes & methods regarding tools
     1. cross-talk: Most of what will be mentioned is subjective and could be counter-productive in your team. Let's talk about how it could help you in your setting. 
 - This workshop is NOT about if remote working is generally useful or applicable to every setting. It's about how to make it work in situations where remote is a reality or will be in the future.    

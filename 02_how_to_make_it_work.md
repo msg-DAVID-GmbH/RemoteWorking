@@ -1,14 +1,30 @@
 # How to make it work
+
+![alt text](slides/contextOfRemoteWorking.png)
+
 ## Prepare yourself
+
+![alt text](slides/prepareYourself.jpg)
+
 - Warning: Not for everyone! Remember time right before your final tests? Bet your rooms have never been that clean. ;) Beware of procrastination!
 - Don't get flabby: when working from home, no more walks to the cafeteria and less traveling to the water cooler = health issues! 
+- dress properly, even if no one sees you (activate "working-mode" in brain)
+- more subtle: working-slippers
 
 ## Prepare your social context
+
+![alt text](slides/contextOfRemoteWorking.png)
+
 - Proactively fight social isolation
 - find your way to connect to your remote team
 - know all holidays of the countries your teammates work in and make them public to everyone in the team
 
 ## Prepare your home
+- invest in a proper office
+- have a "real" office, not just a corner in your living room
+- prepare your family - they will be sharing your office with you
+- introduce no-go zones and timeslots
+- introduce signs like closed doors or "Leave me alone working"-signs
 
 ## Prepare your team
 - overlapping timezones
@@ -26,6 +42,8 @@
 - ambassador = team member who spend some weeks / months at the remote site
 - special case: multi-site team. Every team should be "full-stack" = being able to do every task another team could do. => cross-functional teams! Creating functional / layered teams (test-team in berlin, developer-team in Romania) bad idea because communication paths within one layer already strong.
 - satellite workers generally bad idea, at best just temporarily
+
+![alt text](slides/contextOfRemoteWorkingInBusiness.png)
 
 ## Prepare your processes
 - have a real-life meeting at the beginning of the project = "invest in beginnings": freshly created remote working teams need more time for the "storming" phase in which roles and rules are created. This time has to be accounted for and planned upfront.

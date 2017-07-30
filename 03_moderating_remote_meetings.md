@@ -4,6 +4,10 @@
 - no long presentations without interactions of participants. Develop drawings etc. during presentation to create involvement and action
 
 ## phases of a meeting
+
+![alt text](slides/phasesOfAMeeting.png)
+
+Moderator should know the phases every meeting should have:
 1. Beginning and smalltalk => check list of participants, create setting, let everybody speak
 2. Introduction = Warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
 3. Visualized content. Activate participants per direct speech, proactively get feedback
@@ -12,11 +16,19 @@
 6. Postprocessing and retrospective "What was good, what can be done better next time?"
 
 ## Moderator before the meeting
+
+- moderator has several tasks before, during and after a meeting:
+
+![alt text](slides/meetingBefore.png)
+
 - being on time one of the most important things when working remotely
 - to be ready for unforeseen events: login at least 15 minutes before meeting begin (remaining time can be used with muted mic)
 - makes everyone else join at least 5 minutes before begin
 
 ## Moderator at the meeting
+
+![alt text](slides/meetingDuring.png)
+
 - introduces meeting with "Can everybody here me?" => "Yes" from everyone = confirmation that audio is great.
 - if participants don't usually meet in this constellation, make everybody talk a little via simple questions like "Everybody had a great weekend?", "What's your favorite color/food/whatever?". Background: Surgeons do this to minimize fear of talking during an operation. That way, nobody has a psychological fear of calling out problems. 
 - checks video stream of everybody
@@ -24,9 +36,16 @@
 - makes everybody not speaking mute their microphones
 
 ## Moderator after the meeting
+
+![alt text](slides/meetingAfter.png)
+
+- retrospective of your role as a moderator, findings during the meeting-process, specific tasks for next time
 - in case of communication problems or misunderstandings: make team "overcommunicating" ("overuse" body language, facial expressions and gestures to communicate all the time) 
 
 ## locations layout
+
+![alt text](slides/locationsLayout.png)
+
 - best practice every participant sitting before his/her own webcam
 - only if that's not possible, use meeting room
 - remote-sitting colleagues have to be cared about in a special way:

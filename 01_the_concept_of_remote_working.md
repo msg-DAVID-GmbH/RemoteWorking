@@ -1,17 +1,37 @@
 # The concept of remote working
 ## What is it about?
 ### Some definitions
-- "home office", "virtual team", "remote working", (in German) "verteiltes Arbeiten"
+![alt text](slides/someDefinitions.png)
+
 - [Martin Fowler](https://martinfowler.com/articles/remote-or-co-located.html): geographies of remote teams:
-    - single-site
-    - multi-site
-    - satellite workers
-    - remote-first
+
+single-site team:
+
+<img src="slides/singleSideTeam.png" width=300>
+
+multi-site team:
+
+<img src="slides/multiSideTeam.png" width=300>
+
+satellite workers:
+
+<img src="slides/satelliteWorkers.png" width=300>
+
+remote-first team:
+
+<img src="slides/remoteFirstTeam.png" width=300>
+
 - Remote = "everything outside of this floor", doesn't matter if India or coffee shop around the corner - "out is out"
 - not just local changes, also temporal changes, for example opposite of "9 to 5" = "My company gets the premium 8 hours of my day where I can focus the most."
 
 ### Current status in the industry
+
+![alt text](slides/futureIsAlreadyHere.png)
+
 - "The future is already here - it's just not evenly distributed" (William Gibson) - what we're talking about here is the present. Don't let anybody tell you "maybe in the future".
+
+![alt text](slides/noSilverBullet.png)
+
 - Companies with remote workers: ebay, IBM, Accenture (see "Remote" p. 80)
 - However: some important tech companies prefer co-located work: [Yahoo](https://www.fastcompany.com/3020930/yahoo-says-that-killing-working-from-home-is-turning-out-perfectly), Google, Netflix. 
 - There's no works-for-all solution, applying working remotely depends on circumstances. 
@@ -24,6 +44,9 @@
 - provoking thought: "As a good developer, these days you have to be able to work remotely"
 
 ## Remote working has to be learned and is not for everyone
+
+![alt text](slides/remoteWorkingHasToBeLearned.png)
+
 - new possibility of distributed work doesn't mean that every team should be remote!
 - distributed work != faster / better than co-located work
 - in many cases: gather developers around one desk = maximum performance because of quick communication paths + no technical and organizational overhead
@@ -37,6 +60,9 @@
 - focus of this workshop: cases, where distributed working is reality. 
 
 ## Reputation
+
+![alt text](slides/reputation.png)
+
 - employees: Wanna have!
 - employers: (often) no-go
 - "good ideas only when you are all in one room" - compare to several (american) films where crisis squads lock themselves into a room and force a solution
@@ -85,6 +111,9 @@
 - more need for understanding business logic for every consultant in Germany
 
 ## What does that mean to you?
+
+![alt text](slides/whatWillYouMakeOfThis.png)
+
 - You will be compared to people from all over the world. Find your niche and be awesome!
 - Employers will hire people who write well. Learn that!
 - It's more and more about communication. Visit every communication course you can, especially when being a student.
