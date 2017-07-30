@@ -75,6 +75,7 @@ remote-first team:
   - only use generated passwords that are managed via password safe
   - two factor authentication (additional dongle or app for pin)
 - Change of mindset: working remotely != "cheaper", but "We as tech-leaders need the best workers from around the world!" - that's an additional dimension to "think remote"
+- extreme form: "[digital nomads](https://travel.hostfully.com/why-i-quit-my-job-sold-all-my-stuff-moved-out-of-my-nyc-apartment-and-became-a-digital-nomad-1c5f50754563)"
  
 ## Consequences
 ### If it works

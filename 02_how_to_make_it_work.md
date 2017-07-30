@@ -42,6 +42,7 @@
 - ambassador = team member who spend some weeks / months at the remote site
 - special case: multi-site team. Every team should be "full-stack" = being able to do every task another team could do. => cross-functional teams! Creating functional / layered teams (test-team in berlin, developer-team in Romania) bad idea because communication paths within one layer already strong.
 - satellite workers generally bad idea, at best just temporarily
+- every team needs self-defined rules -> first kickoff-meeting with team 
 
 ![alt text](slides/contextOfRemoteWorkingInBusiness.png)
 
