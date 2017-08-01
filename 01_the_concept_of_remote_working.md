@@ -51,8 +51,8 @@ remote-first team:
 - distributed work != faster / better than co-located work
 - in many cases: gather developers around one desk = maximum performance because of quick communication paths + no technical and organizational overhead
 - also: remote working may make only sense with developers, not management or assistance (although there are digital assistants ...)
-- doesn't work in with every customer, every team member etc.
-- high level of self discipline necessary, high level of seniority, high level of self-organization: "What is the next thing I have to to to be successful?"
+- doesn't work with every customer, every team member etc.
+- high level of self discipline necessary, high level of seniority, high level of self-organization: "What is the next thing I have to do to be successful?"
 - experience from senior colleague: "You cannot work remotely in the first years of your career". Best thing: work co-located, then remote.
 - also holds true for remote teams: Start working co-located in one room for a while, only after that separate and work remotely.
 - "Everything that can go wrong in co-located mode can go REALLY REALLY wrong in remote-mode" (Martin Scholz)
@@ -107,7 +107,7 @@ remote-first team:
 ## Current situation in Germany
 - more and more need for nearshore (for example Romania) or offshore (for example China or India) in Germany
 - reason: cost reduction from german industry
-- consequence in german IT: customer contact, analysis and creation of requirements furthermore in Germany, also decision-making about architectures and technologies. Implementation however more and more offsite.
+- consequence in German IT: customer contact, analysis and creation of requirements furthermore in Germany, also decision-making about architectures and technologies. Implementation however more and more offsite.
 - => more need for coordination and communication in management
 - more need for understanding business logic for every consultant in Germany
 
