@@ -31,12 +31,17 @@
 - declare "default-timezone". What is meant with "Let's meet at 8 a.m.?"
 - virtual water cooler
 - force employees to stop working: "Just checking mails right after dinner with my family" very dangerous
-- employers: train the commonly used language with ongoing language courses
+- language:
+    - train the commonly used language with ongoing language courses. 
+    - One of our teams in india: "indien english" only spoken by employees > 50 years. Young people: "Hollywood-english" because of strong influence of american movie industry.
+    - in India: teammates even speak english to each other because they originate from different areas in India and speak very different dialects. 
 - everyone involved must be a pro in communication because a big part of inter-human communication is not available remotely (gesture, facial expression, surroundings, smell, hearing everything, ...) + everyone must know how to communicate expectations to others
 - learn how to write emails ("I'm sorry this mail is so long, I couldn't take the time to shorten it") and leave voice messages ("Influencing virtual teams" p. 44)
 - learn how to organize meetings (necessary? goal, agenda, participants, postprocessing)
 - organize a coach for first-time remote-working teams. For example: learn how to screenshare: don't move the mouse unless you want to point to something, navigatore more slowly, speak as if you're giving an interview
-- coaching of communication of cultural differences and how to deal with them (for example different understand of what "9 am" means: "Indian time" or "German time"?)
+- cultural differences
+    - coaching of communication of cultural differences and how to deal with them (for example different understand of what "9 am" means: "Indian time" or "German time"?)
+    - different situation of workforce: in India, young and well-studied employees very detailed wishes about tasks and carrier, will switch employer very fast. Good countermeasure: give responsibility and interesting tasks => project leads have to know this!   
 - at least teamleaders, better everyone in the team has to be coached in solving conflicts because these are harder to solve from distance
 - in case of multi-site teams: "us vs them"-mentality can occur. Vaccine: Regular meetings + ambassadors = build personal relationships = plan time for common relaxing activities (visit location of other team, sightseeing of offices and interesting locations in the city, eat together, finish with a beer in a bar).
 - ambassador = team member who spend some weeks / months at the remote site
