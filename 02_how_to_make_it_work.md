@@ -45,7 +45,7 @@
 - at least teamleaders, better everyone in the team has to be coached in solving conflicts because these are harder to solve from distance
 - in case of multi-site teams: "us vs them"-mentality can occur. Vaccine: Regular meetings + ambassadors = build personal relationships = plan time for common relaxing activities (visit location of other team, sightseeing of offices and interesting locations in the city, eat together, finish with a beer in a bar).
 - ambassador = team member who spend some weeks / months at the remote site
-- special case: multi-site team. Every team should be "full-stack" = being able to do every task another team could do. => cross-functional teams! Creating functional / layered teams (test-team in berlin, developer-team in Romania) bad idea because communication paths within one layer already strong.
+- special case: multi-site team. Every team should be "full-stack" = being able to do every task another team could do. => cross-functional teams! Creating functional / layered teams (test-team in Berlin, developer-team in Romania) bad idea because communication paths within one layer already strong.
 - satellite workers generally bad idea, at best just temporarily
 - every team needs self-defined rules -> first kickoff-meeting with team 
 
@@ -55,7 +55,7 @@
 - have a real-life meeting at the beginning of the project = "invest in beginnings": freshly created remote working teams need more time for the "storming" phase in which roles and rules are created. This time has to be accounted for and planned upfront.
 - with that first meeting: begin to build trust
 - don't stop there: trust has to be groomed and buid further
-- have a look at open source projects: all remote, a lot of them awesome and used worldwide. These are endlessly more complex than most of the "business" applications you will work on.
+- have a look at open source projects: all remote, a lot of them are awesome and used worldwide. These are endlessly more complex than most of the "business" applications you will work on.
 - if only part of team remote: treat them like equals because they are equals! Get rid of technical impediments, improve social skills of the whole (!) team, meet in person.
 - employers: organize meetups at least 2 times a year, multiple days. People have to meet in person! Have activities for working together, meeting the customer together, having fun together. See https://stevenschwenke.de/theFirstGetTogetherOfMeAndMyRemoteTeam
 - complete transparency (especially for documents). There's no "just go over to Sven and ask him" because Sven is in Helsinki and sleeping right now.

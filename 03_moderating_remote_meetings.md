@@ -50,7 +50,7 @@ Moderator should know the phases every meeting should have:
 - only if that's not possible, use meeting room
 - remote-sitting colleagues have to be cared about in a special way:
    - at the beginning, state names of people present
-   - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is draweing something on the flipchart")
+   - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is drawing something on the flipchart")
    - moderator interrupts and eliminates auxiliary conversations in the meeting room (hard to understand and follow remotely)
    - always ask remote participants first (to keep them in the loop)
    - make everybody state their name when beginning to talk
