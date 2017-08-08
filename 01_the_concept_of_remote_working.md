@@ -66,6 +66,7 @@ remote-first team:
 - employees: Wanna have!
 - employers: (often) no-go
 - "good ideas only when you are all in one room" - compare to several (american) films where crisis squads lock themselves into a room and force a solution
+- also: people search romantic partners via online partnership - that's the most personal thing to do and it's done online. Why sitting in an office for work then?  
 - big topic: trust. Employer "How can I trust them to work?" - Why would you want to work for a boss that doesn't trust you? Why would he want to hire people he can't trust? Real fear: Loss of control, power, influence, right of existence of some managers
 - security: What is more valuable: An encrypted laptop or a demotivated emplyoer? Knowledge is in the heads, not the hardware. However, "safe" VPN and infrastructure is necessary. security checklist of 37signals:
   - all computers drive encryption

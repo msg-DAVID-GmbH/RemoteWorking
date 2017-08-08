@@ -25,6 +25,7 @@
 - prepare your family - they will be sharing your office with you
 - introduce no-go zones and timeslots
 - introduce signs like closed doors or "Leave me alone working"-signs
+- pay attention to what is happening in your video stream: presentation for customers in a clean room without personal stuff visible. Presentation for team: cat running on the desktop great, creates personal touch
 
 ## Prepare your team
 - overlapping timezones
@@ -33,6 +34,7 @@
 - force employees to stop working: "Just checking mails right after dinner with my family" very dangerous
 - language:
     - train the commonly used language with ongoing language courses. 
+    - slang + phrases very important "Can you rephrase that please?", "Oh, bummer, person x is missing" + english designations important ("mobile phone", not "handy")
     - One of our teams in india: "indien english" only spoken by employees > 50 years. Young people: "Hollywood-english" because of strong influence of american movie industry.
     - in India: teammates even speak english to each other because they originate from different areas in India and speak very different dialects. 
 - everyone involved must be a pro in communication because a big part of inter-human communication is not available remotely (gesture, facial expression, surroundings, smell, hearing everything, ...) + everyone must know how to communicate expectations to others

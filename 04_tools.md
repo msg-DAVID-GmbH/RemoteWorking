@@ -1,27 +1,69 @@
 # Tools
-- misconception, that it's just about the tools
-- requirements:
-  - text
-  - voice
-  - video
-  - screen sharing (code review, presenting)
-  - good audio
-  - knowing everyones current status
-  - collaborative working: Skype whiteboard, Etherpad, Piratepad
-- hardware:
-  - multiple monitors (one just for video stream)
-  - great cam
-  - great mic
-  - great headset
-- software:
-  - shared calender (Outlook, Google)
-  - Skype (show audio settings to check if mic is working + different views in meeting room to see everybody simultaneously)
-  - teamview
-  - Slack Chat
-  - document management for ALL documents
+- misconception, that remote working is just about the tools - tools make only possible what has to be learned
+
+## requirements
+- text / messaging
+- voice with excellent audio
+- video with good quality
+- screen sharing (code review, presenting)
+- knowing everyone's current status
+- collaborative working
+
+## hardware:
+### text / messaging
+- multiple monitors
+- your favorite keyboard (not just from notebook) - you have to be able to type really fast
+
+### voice
+- in the office: noise-cancelling headset with adjustable microphone (not just within earphones)
+- at home: (for me) microphone in notebook sufficient
+- however: don't type on notebook while being un-muted because of noise
+
+### video
+- built-in webcams these days good quality
+- peripheral webcam can be moved an adjusted
+- my setup: content on two screens directly in front of me + laptop screen with built-in video on the side => colleagues see me from the side, but also notice when I'm doing this vs when I'm listening to them + looking at them
+- good practice: one screen just for video stream - don't minimize video stream! 
+ 
+## software
+### text / messaging
+- company setup: Microsoft Skype for Business
+- additionally [Slack](slack.com/)-chat for
+    - team-wide announcements
+    - "overcommunicating" content that might interest others
+    - very useful in stressful situations with a lot of spontaneous task management like right before deployment
+- next step: chatbots 
+
+### voice, video, screen share, status
+- Skype OK
+
+### collaborative working
+- Skype whiteboard
+- [Etherpad](http://etherpad.org)
+
+### other
+- shared calender (Outlook, Google)
+- document management for ALL documents
+- [teamview](https://www.teamviewer.com/de/)
 
 ## How to use the tools
+### Skype
+
+![alt text](slides/skype_attendeeList.png)
+
+![alt text](slides/skype_attendeeOptions.png)
+![alt text](slides/skype_warnings.png)
+ignore those warnings
+
+![alt text](slides/skype_sprecheransicht.png)
+
+![alt text](slides/skype_options.png)
+
+![alt text](slides/skype_optionsDetails.png)
+
+### process
 - In case of group-wide failure: have a backup communication channel (SlackChat if Skype fails) + recovery strategy ("If Skype fails to connect to our meeting room, let's meet in Slack and talk about what to do")
 - In case of individual failure: for every team member, have a way to connect (best backup: telephone)
 - establish a procedure for interrupts, for example ringing door bell during group conversation: write "Someone is at the door, brb" into the group-wide chat. => current speaker is not disturbed + everyone knows what's going on 
 - use status messages in your messager (Skype etc) => "Free for chat" (ICQ) vs "I'm busy" => that's not even possible in "the real world" except you put a sticker on your forehead
+- establish understanding of "ping" / "pong" in messaging

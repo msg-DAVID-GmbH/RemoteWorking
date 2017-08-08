@@ -29,7 +29,7 @@ Moderator should know the phases every meeting should have:
 
 ![alt text](slides/meetingDuring.png)
 
-- introduces meeting with "Can everybody here me?" => "Yes" from everyone = confirmation that audio is great.
+- introduces meeting with "Can everybody here me?" => "Yes" from everyone = confirmation that audio is great. Also great: thumbs up / down = immediate synchronous response from everybody
 - if participants don't usually meet in this constellation, make everybody talk a little via simple questions like "Everybody had a great weekend?", "What's your favorite color/food/whatever?". Background: Surgeons do this to minimize fear of talking during an operation. That way, nobody has a psychological fear of calling out problems. 
 - checks video stream of everybody
 - keeps an eye to the chat - that's the remaining way of communication for those who suffered audio failure
