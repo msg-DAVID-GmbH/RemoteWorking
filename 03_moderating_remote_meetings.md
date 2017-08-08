@@ -40,7 +40,6 @@ Moderator should know the phases every meeting should have:
 ![alt text](slides/meetingAfter.png)
 
 - retrospective of your role as a moderator, findings during the meeting-process, specific tasks for next time
-- in case of communication problems or misunderstandings: make team "overcommunicating" ("overuse" body language, facial expressions and gestures to communicate all the time) 
 
 ## locations layout
 
@@ -56,3 +55,8 @@ Moderator should know the phases every meeting should have:
    - make everybody state their name when beginning to talk
 - "ambassador-rule": in bigger meetings, use an ambassador who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, ambassador interrupts moderator if urgent questions arise.
 - when videochatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
+
+## Participants of virtual meetings
+- in case of voice-only meeting AND participants not known to each other: makes everyone speaking tell their name: "This is Martin, I just wanted to add ..."
+- "overcommunicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
+- also overcommunicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
