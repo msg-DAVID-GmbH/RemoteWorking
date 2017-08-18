@@ -3,6 +3,10 @@
 ## What it is, what it can be for your team and how to make it so
 
 ---
+
+![alt text](intro.jpg)
+
+---
 ![alt text](steven5.jpg)
 
 stevenschwenke.de
