@@ -22,13 +22,17 @@ Working remotely, having digital team members or coding from the Starbucks at th
     - Why are tools not the only thing to consider when "going remote"?
     - What are the requirements for tools to be used in a remote context?
     - What tools should I use for which purpose?
+- [Leading remote teams](05_leading_remote_teams.md)
+    - What is the difference between leading co-located teams and remote teams?
+    - What is the trust-equation?
+    - How should tasks be delegated?
 
-Also, there will be some [exercises](05_exercises.md) to perform.
+Also, there will be some [exercises](06_exercises.md) to perform.
 
 ## Organizational
 The workshop is considered to be a full-day workshop. However, it heavily relies on the activity and experiences of the participants. It's estimated to have __a length of five to eight hours__.
 
-Further organizational needs see chapters, especially [exercises](05_exercises.md). 
+Further organizational needs see chapters, especially [exercises](06_exercises.md). 
 
 ## Meta: Copyright
 
