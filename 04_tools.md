@@ -7,6 +7,7 @@
 - video with good quality
 - screen sharing (code review, presenting)
 - knowing everyone's current status
+- collaborative software development (= everything dev-related you can do with your colleagues sitting next to you in an office)
 - collaborative working
 
 ## hardware:
@@ -36,6 +37,14 @@
 
 ### voice, video, screen share, status
 - Skype OK
+
+### collaborative software development
+- general advice: keep __everything__ digital, use proper tools
+- teach whole team to communicate via comments on platforms => tech them to write properly!
+- knowledge management:
+    - wikis like confluence (better: Atlassian toolchain)
+- code reviews:
+    - Atlassian Bitbucket
 
 ### collaborative working
 - Skype whiteboard
