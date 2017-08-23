@@ -118,5 +118,15 @@ stevenschwenke.de
 
 # Chapter 4 - Tools
 
+---
+
 # Chapter 5 - Leading remote teams
-TODO
+![alt text](1280px-Bell_X-1_46-062_(in_flight).jpg)
+
+---
+
+![alt_text](trustEquation.png)
+
+---
+
+# Delegation
