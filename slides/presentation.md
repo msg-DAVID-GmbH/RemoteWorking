@@ -20,6 +20,14 @@ stevenschwenke.de
 
 ---
 
+![alt text](terasa7.jpg)
+
+---
+
+![alt text](terasa2.jpg)
+
+---
+
 # What will be in this for you?
 1. "theoretical" stuff
 1. "practical stuff"
@@ -122,4 +130,15 @@ stevenschwenke.de
 
 # Chapter 4 - Tools
 
+---
 
+# Chapter 5 - Leading remote teams
+![alt text](1280px-Bell_X-1_46-062_(in_flight).jpg)
+
+---
+
+![alt_text](trustEquation.png)
+
+---
+
+# Delegation
