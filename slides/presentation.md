@@ -129,4 +129,8 @@ stevenschwenke.de
 
 ---
 
+![alt_text](one-on-ones.png)
+
+---
+
 # Delegation

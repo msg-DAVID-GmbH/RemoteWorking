@@ -84,7 +84,7 @@
 - "Please finish this document until tomorrow 10 a.m. because I need to review it"
  
 ## Regular one-on-ones
-TODO Bild: zwei gegenübersitzende Schreibtische, Headsets
+![alt_text](slides/one-on-ones.png)
 - project-entry talk:
     - background?
     - goals?
