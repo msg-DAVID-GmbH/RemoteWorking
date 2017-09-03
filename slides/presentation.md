@@ -141,4 +141,18 @@ stevenschwenke.de
 
 ---
 
-# Delegation
+![alt_text](deleteDelegateDo.png)
+
+---
+
+![alt_text](because.png)
+
+---
+
+![alt_text](one-on-ones.png)
+
+---
+
+![alt_text](connectingCustomer.png)
+
+---
