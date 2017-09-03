@@ -43,6 +43,7 @@
     - Be Positive
 
 ## Delegation
+![alt_text](slides/deleteDelegateDo.png)
 - excursion into Getting things done: "the 3 Ds" = Delete, Delegate, Do (in this order)
 - generally important to do delegation right, but especially with remote teams
 
@@ -73,6 +74,7 @@
 - assign to individuals, not groups
 
 ## "Because"
+![alt_text](slides/because.png)
 - "Xerox study": line before a copy machine
     1. "Excuse me, I have five pages. May I use the Xerox machine, because I'm in a rush?" => 94% compliance
     1. "Excuse me, I have five pages. May I use the Xerox machine?" => 60%
@@ -98,7 +100,8 @@
 - attention: make sure one-on-ones happen in separated rooms so the team cannot hear what is talked about (don't let your co-worker sit on his usual desk in the office besides his colleagues)  
 
 ## Connection with actual customer
-TODO weinender customer vor leerem Schreibtisch
+![alt_text](slides/connectingCustomer.png)
+
 - setting in my team: extremely "local-thinking" customer, since forever all hired developers co-located, high amount of direct and immediate communication in office
 - gain: insight in mood and circumstances
 - remote workers: no connection of that sort to customer
@@ -109,5 +112,3 @@ TODO weinender customer vor leerem Schreibtisch
     - state names of team members in meetings so the customer knows them as individuals, not just "the indian development team"
     - have remote team members use actual profile pictures in systems like JIRA so that the customer knows them
     - if customer really understands Scrum: offer him to participate in dailies, however just as a guest
-
-TODO Talking to tech leads lesen und hier ergänzen
