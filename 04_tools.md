@@ -49,6 +49,7 @@
 ### collaborative working
 - Skype whiteboard
 - [Etherpad](http://etherpad.org)
+- Skype for Business: every user able to generate URL with meeting room. Usa: Declare one of those rooms as default for spontaneous meetings and keep the window open to see what's going on there and to meet quickly.
 
 ### other
 - shared calender (Outlook, Google)
