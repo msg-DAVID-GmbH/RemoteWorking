@@ -56,6 +56,7 @@
 ## Prepare your processes
 - have a real-life meeting at the beginning of the project = "invest in beginnings": freshly created remote working teams need more time for the "storming" phase in which roles and rules are created. This time has to be accounted for and planned upfront.
 - with that first meeting: begin to build trust
+- "You don't remember Skype-Meetings. But you remember when the team met in real-life." (Iulia)
 - don't stop there: trust has to be groomed and buid further
 - have a look at open source projects: all remote, a lot of them are awesome and used worldwide. These are endlessly more complex than most of the "business" applications you will work on.
 - if only part of team remote: treat them like equals because they are equals! Get rid of technical impediments, improve social skills of the whole (!) team, meet in person.
