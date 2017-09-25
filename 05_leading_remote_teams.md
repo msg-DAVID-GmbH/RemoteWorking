@@ -97,7 +97,8 @@
     - new plans for future?
 - my experience: offshore developers often more focused on personal gain and development, more open to change if positive for own development => very important to know the real motivation!
 - all of those talks with the maximum amount of presence: best would be a physical face-to-case meeting. If remote: video + audio
-- attention: make sure one-on-ones happen in separated rooms so the team cannot hear what is talked about (don't let your co-worker sit on his usual desk in the office besides his colleagues)  
+- attention: make sure one-on-ones happen in separated rooms so the team cannot hear what is talked about (don't let your co-worker sit on his usual desk in the office besides his colleagues)
+- great guide: ["Stop wasting my time with your shitty one -on-one meetings" by Mike Acton](https://medium.com/@mike_acton/stop-wasting-my-time-with-your-shitty-one-on-one-meetings-258b5c5c10cc)  
 
 ## Connection with actual customer
 ![alt_text](slides/connectingCustomer.png)
