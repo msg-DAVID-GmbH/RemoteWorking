@@ -46,6 +46,8 @@
 ![alt_text](slides/deleteDelegateDo.png)
 - excursion into Getting things done: "the 3 Ds" = Delete, Delegate, Do (in this order)
 - generally important to do delegation right, but especially with remote teams
+- in remote teams: Delegation = Investment in more powerful teams = necessary tool to build a remote team
+- avoid Micromanagement-Trap (= doing every simple step yourself instead of investing in the team so they can do more and more tasks)
 
 ### Example dialog
 - communicate reason of delegation: "I have this other important deadline coming up, that's why I cannot do this task by myself"
@@ -64,6 +66,26 @@
 - be reasonable
 - set specific deadline: "I need this done by Friday, June 9 at 3pm US Eastern Time", not "in the next few days"
 - provides "natural" timeframe after which a request about the progress makes sense => manageability
+
+### The Delegation Checklist
+From _Management 3.0_ by Jurgen Appelo.
+
+1. Is the risk factor of delegating this work adequately addressed?
+1. Do the people have the right empowerment skills and discipline?
+1. Have you considered and selected the right level of authority?
+1. Have you considered the question of delegating to individuals or to teams?
+1. Is what you are delegating a discrete chunk of work?
+1. Do the people have the skills to do this particular kind of work?
+1. Do the people have the right format for the work products to use?
+1. Do the people have the tools necessary to be successful?
+1. To the people know what the results should look like?
+1. Did you set the boundary conditions for the work (for example budget, time, resources and quality)?
+1. Do the people know when the work is due?
+1. Do the people know what progress looks like?
+1. Do the people know how often to report to you on progress (adhering to interim milestones)?
+1. Is someone available (you or another person) to coach  the people in case they need help? 
+
+- in case delegation went wrong: Ask "What did __I__ do wrong?"
  
 ## How to assign tasks - avoid "Thy Bystander Effect"
 - Kitty Genovese: 1964, New York City, attacked 3 times within 30 minutes - 38 witnesses, not one of them called police
