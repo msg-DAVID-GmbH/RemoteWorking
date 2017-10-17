@@ -74,3 +74,14 @@
 
 ## Prepare your company
 - "The fact that you can get a better team by supporting a remote working pattern has become increasingly important during my time in the software business and I expect its importance to keep growing. I sense a growing reluctance amongst the best developers to accept the location and commuting disadvantages of single-site work. This is increasingly true as people get more experienced, and thus more valuable. You can either try to ignore this and accept the best people who will relocate for you, or you can explore how to make remote working patterns more effective. I think that organizations that are able to make remote working patterns effective will have a significant and growing competitive advantage.", [Martin Fowler](https://martinfowler.com/articles/remote-or-co-located.html)
+
+# Exercises
+## War Gaming: Office exodus
+- scenario: The office burned down and everybody has to work from home.
+- Task 1: Create a prioritized list of things that could make this transition difficult for you. Add at least one thought to each of the aspects presented in this chapter (you, your friends and family ...). 
+- Task 2: For each of the problems in your first list, create a list of specific tasks you have to do to counter these negative effects. A task is a small and physically doable step. If there are a lot of tasks, you may create projects (= tasks done in a specific order to reach a goal).
+- because these thoughts can be very intimate, presentation is optional and voluntary.
+- organizational:
+    - task 1: 10 minutes
+    - task 2: 20 minutes
+    - presentation: 5 mins per participant

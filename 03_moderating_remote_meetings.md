@@ -60,3 +60,17 @@ Moderator should know the phases every meeting should have:
 - in case of voice-only meeting AND participants not known to each other: makes everyone speaking tell their name: "This is Martin, I just wanted to add ..."
 - "overcommunicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
 - also overcommunicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
+
+# Exercise
+## Analysis: How good are your meetings?
+- gather in groups of two, max. three where every group member should be in the same project.
+- Create an Amazon-rating of what is good and what is bad in the way your current meetings are held. An Amazon-rating consists of a 5-star-rating, a short (one-liner) summary and a short text.
+- Analyze the root cause (for example with the 5-Why-technique) of these problems.
+- Create a second list of specific, physically doable tasks to enhance your meetings. If that is not possible (for example because of lack of knowledge about the root causes), create a list of persons who could enhance the situations.
+- presentation:
+    - read your Amazon-rating
+    - pick the most important tasks and present them
+- organizational:
+    - 3 mins grouping
+    - 15 mins Amazon rating
+    - 30 mins presentation

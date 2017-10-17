@@ -32,6 +32,17 @@ stevenschwenke.de
 1. "theoretical" stuff
 1. "practical stuff"
 1. cross-talk
+
+---
+
+# Who are you?
+- Are you currently working in a remote team?
+- If yes, in what role?
+- How big is your team?
+- On how many locations is your team located?
+- What are your main problems?
+- What are your main questions?
+- What are your main concerns?
  
 ---
 

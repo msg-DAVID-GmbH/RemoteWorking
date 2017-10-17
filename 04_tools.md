@@ -2,6 +2,10 @@
 - misconception, that remote working is just about the tools - tools make only possible what has to be learned
 
 ## requirements
+
+- __Gather those requirements together with the participants on a flip chart. Add hard- and software solutions later.__ 
+
+
 - text / messaging
 - voice with excellent audio
 - video with good quality
