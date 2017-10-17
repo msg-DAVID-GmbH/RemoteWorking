@@ -67,6 +67,18 @@
 - decide if you want to "just throw over" predefined packages of work or if you want to be a real team where everyone is equal
 - special case: remote-first: "If you're going with a remote-first model, you need to go all-out with it. All communication should occur online, don't have co-located sub-groups in the same office. I've even heard of some teams forcing people working in the same office to working in solitary offices and mandating that any communication with the programmer next door occurs online.", [Martin Fowler](https://martinfowler.com/articles/remote-or-co-located.html)
 
+### Remote and Agile:
+- "Agile doesn't work better with remote. But remote works better with Agile."
+-  Dailies = max 24h delay to notice problems and talk about them. (In comparison to co-located office, where problems usually present themselves pretty fast)
+- implementation of Agile in remote teams strongly dependent on team structure:
+    - multi site team = Scrum Master in each location? One Scrum Master for all? Complete different Scrum Teams?
+    - satellite workers = pretty clear that "core team" = center of Scrum process
+    - remote-first teams = ?
+- history of my team:
+    1. Germany-centered: Scrum Master, business analyst, architect in Germany. Only one developer in Romania.
+    1. Romanian team grew up to three developer, leading to 3:3 (Germany - Romania)
+    1. Understanding of how the team can perform better growing. New goal: Building __technical and business__ knowledge in Romania. First step: one developer in Romania supporting teach lead in Germany.   
+
 ## Prepare your customer
 - invite the customer to web meetings to build trust. "Seeing is believing", that goes for your coworkers as well!
 - make team structure very transparent
