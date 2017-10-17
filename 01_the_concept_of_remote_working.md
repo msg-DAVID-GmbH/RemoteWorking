@@ -40,7 +40,7 @@ remote-first team:
 - nowadays, at least for knowledge workers, office = perceived as interruption factory
 - "real work" is done alone in the quite / in coffee shops
 - 400h commute time per year = time to develop "basecamp" (https://launchpad.37signals.com/basecamp)
-- relatively new concept because technology only available since a couple of years: internet, cheap fast portable computers, webcamps, headsets, ...
+- relatively new concept because technology only available since a couple of years: internet, cheap fast portable computers, webcams, headsets, ...
 - provoking thought: "As a good developer, these days you have to be able to work remotely"
 
 ## Remote working has to be learned and is not for everyone
@@ -68,11 +68,11 @@ remote-first team:
 - "good ideas only when you are all in one room" - compare to several (american) films where crisis squads lock themselves into a room and force a solution
 - also: people search romantic partners via online partnership - that's the most personal thing to do and it's done online. Why sitting in an office for work then?  
 - big topic: trust. Employer "How can I trust them to work?" - Why would you want to work for a boss that doesn't trust you? Why would he want to hire people he can't trust? Real fear: Loss of control, power, influence, right of existence of some managers
-- security: What is more valuable: An encrypted laptop or a demotivated emplyoer? Knowledge is in the heads, not the hardware. However, "safe" VPN and infrastructure is necessary. security checklist of 37signals:
+- security: What is more valuable: An encrypted laptop or a demotivated employer? Knowledge is in the heads, not the hardware. However, "safe" VPN and infrastructure is necessary. security checklist of 37signals:
   - all computers drive encryption
   - disable automatic login + logout after 10 minutes
   - encryption for every site visited (TLS)
-  - all smart phones and laptops have lock codes and can be wipped remotely
+  - all smart phones and laptops have lock codes and can be whipped remotely
   - only use generated passwords that are managed via password safe
   - two factor authentication (additional dongle or app for pin)
 - Change of mindset: working remotely != "cheaper", but "We as tech-leaders need the best workers from around the world!" - that's an additional dimension to "think remote"

@@ -9,7 +9,7 @@
 
 Moderator should know the phases every meeting should have:
 1. Beginning and smalltalk => check list of participants, create setting, let everybody speak
-2. Introduction = Warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
+2. Introduction = warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
 3. Visualized content. Activate participants per direct speech, proactively get feedback
 4. Wrap up and tasks: Get agreement about the content of the meeting
 5. Closing
@@ -49,17 +49,17 @@ Moderator should know the phases every meeting should have:
 - only if that's not possible, use meeting room
 - remote-sitting colleagues have to be cared about in a special way:
    - at the beginning, state names of people present
-   - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is drawing something on the flipchart")
+   - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is drawing something on the flip chart")
    - moderator interrupts and eliminates auxiliary conversations in the meeting room (hard to understand and follow remotely)
    - always ask remote participants first (to keep them in the loop)
    - make everybody state their name when beginning to talk
-- "ambassador-rule": in bigger meetings, use an ambassador who watches the chat for questions and comments. Moderator asks comoderator from time to time if something happened, ambassador interrupts moderator if urgent questions arise.
-- when videochatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
+- "ambassador-rule": in bigger meetings, use an ambassador who watches the chat for questions and comments. Moderator asks co-moderator from time to time if something happened, ambassador interrupts moderator if urgent questions arise.
+- when video-chatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
 
 ## Participants of virtual meetings
 - in case of voice-only meeting AND participants not known to each other: makes everyone speaking tell their name: "This is Martin, I just wanted to add ..."
-- "overcommunicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
-- also overcommunicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
+- "over-communicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
+- also over-communicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
 
 # Exercise
 ## Analysis: How good are your meetings?
@@ -71,6 +71,6 @@ Moderator should know the phases every meeting should have:
     - read your Amazon-rating
     - pick the most important tasks and present them
 - organizational:
-    - 3 mins grouping
-    - 15 mins Amazon rating
-    - 30 mins presentation
+    - 3 minutes grouping
+    - 15 minutes Amazon rating
+    - 30 minutes presentation

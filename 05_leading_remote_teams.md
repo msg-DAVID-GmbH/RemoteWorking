@@ -1,6 +1,6 @@
 # Leading remote teams
 - often and especially in agile projects: Leader not necessarily (project) manager
-- content in this chapter derived from my experiences as "technical teamlead"
+- content in this chapter derived from my experiences as "technical team-lead"
 
 ## Leading by example
 ![alt text](slides/1280px-Bell_X-1_46-062_(in_flight).jpg)
@@ -24,12 +24,12 @@
         - asking "Are you comfortable doing this task?", "Do you have any concerns about this project?"
     - Be Explicit
         - with expectations and requests
-        - about content and timeframe 
+        - about content and time-frame 
     - Lead by Example
     - Count on Others
         - trust in others creates reliability
 - increase intimacy:
-    - = "likeability"
+    - = "likability"
     - Get Personal
         - learn team members on a personal level: learn about families, vacation plans, hobbies
         - informal discussions and meetings
@@ -65,7 +65,7 @@
 - => always set a deadline
 - be reasonable
 - set specific deadline: "I need this done by Friday, June 9 at 3pm US Eastern Time", not "in the next few days"
-- provides "natural" timeframe after which a request about the progress makes sense => manageability
+- provides "natural" time-frame after which a request about the progress makes sense => manageability
 
 ### The Delegation Checklist
 From _Management 3.0_ by Jurgen Appelo.
@@ -90,7 +90,7 @@ From _Management 3.0_ by Jurgen Appelo.
 ## How to assign tasks - avoid "Thy Bystander Effect"
 - Kitty Genovese: 1964, New York City, attacked 3 times within 30 minutes - 38 witnesses, not one of them called police
 - "The Bystander Effect" - the greater number of bystanders, the less chance of help
-- = "everyone's responsibility = noone's responsibility" 
+- = "everyone's responsibility = no one's responsibility" 
 - always give responsibility to specific people
 - use direct language: "I need you to work on this task", not "I think we should work on this task"
 - assign to individuals, not groups

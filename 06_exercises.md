@@ -11,16 +11,16 @@
 - tasks have to be team-, situational- and skill-specific to YOUR situation
 
 ### organizational
-- roughly 90 mins
+- roughly 90 minutes
 - group attendees into pairs / triplets, each group should consist of members working in the same team
-- 30-45 mins creating task lists
-- 10 mins presentation of the most important milestones per group, using a beamer to show whole task list + 5 mins feedback from all attendees to presenting group = roughly 1h presentation
+- 30-45 minutes creating task lists
+- 10 minutes presentation of the most important milestones per group, using a projector to show whole task list + 5 minutes feedback from all attendees to presenting group = roughly 1h presentation
 
 ## Role-play: moderating a virtual meeting
 - 1 moderator, up to 6 participants
 - simulated daily standup meeting
-- because of lack of common project: each participant describes his last vacation (3 mins max)
-- moderator: use knowledge from workshop to moderate + makes meeting last 20 mins max 
+- because of lack of common project: each participant describes his last vacation (3 minutes max)
+- moderator: use knowledge from workshop to moderate + makes meeting last 20 minutes max 
 - beforehand, each participant gets a "special task" to execute
 
 ### special tasks 
@@ -30,10 +30,10 @@
 - Create some kind of background noise when your team mates are speaking (crumple some paper or something) with your mic un-muted. Goal is to make the moderator mute you / tell you to mute yourself.
 
 ### organizational
-- roughly 90 mins 
-- 15 mins explanation + setup
-- 30 mins execution
-- 30 mins feedback and discussion
+- roughly 90 minutes 
+- 15 minutes explanation + setup
+- 30 minutes execution
+- 30 minutes feedback and discussion
 - needed
     - three rooms: one for moderator, one for participants of meeting, one for passive participants
     - laptop with installed Skype for every participant  

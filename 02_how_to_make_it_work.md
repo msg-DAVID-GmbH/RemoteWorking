@@ -23,7 +23,7 @@
 - invest in a proper office
 - have a "real" office, not just a corner in your living room
 - prepare your family - they will be sharing your office with you
-- introduce no-go zones and timeslots
+- introduce no-go zones and time slots
 - introduce signs like closed doors or "Leave me alone working"-signs
 - pay attention to what is happening in your video stream: presentation for customers in a clean room without personal stuff visible. Presentation for team: cat running on the desktop great, creates personal touch
 
@@ -35,16 +35,16 @@
 - language:
     - train the commonly used language with ongoing language courses. 
     - slang + phrases very important "Can you rephrase that please?", "Oh, bummer, person x is missing" + english designations important ("mobile phone", not "handy")
-    - One of our teams in india: "indien english" only spoken by employees > 50 years. Young people: "Hollywood-english" because of strong influence of american movie industry.
+    - One of our teams in india: "Indian English" only spoken by employees > 50 years. Young people: "Hollywood-english" because of strong influence of american movie industry.
     - in India: teammates even speak english to each other because they originate from different areas in India and speak very different dialects. 
 - everyone involved must be a pro in communication because a big part of inter-human communication is not available remotely (gesture, facial expression, surroundings, smell, hearing everything, ...) + everyone must know how to communicate expectations to others
-- learn how to write emails ("I'm sorry this mail is so long, I couldn't take the time to shorten it") and leave voice messages ("Influencing virtual teams" p. 44)
+- learn how to write emails ("I'm sorry this mail is so long, I did not take the time to shorten it") and leave voice messages ("Influencing virtual teams" p. 44)
 - learn how to organize meetings (necessary? goal, agenda, participants, postprocessing)
-- organize a coach for first-time remote-working teams. For example: learn how to screenshare: don't move the mouse unless you want to point to something, navigatore more slowly, speak as if you're giving an interview
+- organize a coach for first-time remote-working teams. For example: learn how to screen share: don't move the mouse unless you want to point to something, navigate more slowly, speak as if you're giving an interview
 - cultural differences
     - coaching of communication of cultural differences and how to deal with them (for example different understand of what "9 am" means: "Indian time" or "German time"?)
     - different situation of workforce: in India, young and well-studied employees very detailed wishes about tasks and carrier, will switch employer very fast. Good countermeasure: give responsibility and interesting tasks => project leads have to know this!   
-- at least teamleaders, better everyone in the team has to be coached in solving conflicts because these are harder to solve from distance
+- at least team leaders, better everyone in the team has to be coached in solving conflicts because these are harder to solve from distance
 - in case of multi-site teams: "us vs them"-mentality can occur. Vaccine: Regular meetings + ambassadors = build personal relationships = plan time for common relaxing activities (visit location of other team, sightseeing of offices and interesting locations in the city, eat together, finish with a beer in a bar).
 - ambassador = team member who spend some weeks / months at the remote site
 - special case: multi-site team. Every team should be "full-stack" = being able to do every task another team could do. => cross-functional teams! Creating functional / layered teams (test-team in Berlin, developer-team in Romania) bad idea because communication paths within one layer already strong.
@@ -57,7 +57,7 @@
 - have a real-life meeting at the beginning of the project = "invest in beginnings": freshly created remote working teams need more time for the "storming" phase in which roles and rules are created. This time has to be accounted for and planned upfront.
 - with that first meeting: begin to build trust
 - "You don't remember Skype-Meetings. But you remember when the team met in real-life." (Iulia)
-- don't stop there: trust has to be groomed and buid further
+- don't stop there: trust has to be groomed and build further
 - have a look at open source projects: all remote, a lot of them are awesome and used worldwide. These are endlessly more complex than most of the "business" applications you will work on.
 - if only part of team remote: treat them like equals because they are equals! Get rid of technical impediments, improve social skills of the whole (!) team, meet in person.
 - employers: organize meetups at least 2 times a year, multiple days. People have to meet in person! Have activities for working together, meeting the customer together, having fun together. See https://stevenschwenke.de/theFirstGetTogetherOfMeAndMyRemoteTeam
@@ -96,4 +96,4 @@
 - organizational:
     - task 1: 10 minutes
     - task 2: 20 minutes
-    - presentation: 5 mins per participant
+    - presentation: 5 minutes per participant

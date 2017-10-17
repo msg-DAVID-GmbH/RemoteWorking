@@ -35,7 +35,7 @@
 - company setup: Microsoft Skype for Business
 - additionally [Slack](slack.com/)-chat for
     - team-wide announcements
-    - "overcommunicating" content that might interest others
+    - "over-communicating" content that might interest others
     - very useful in stressful situations with a lot of spontaneous task management like right before deployment
 - next step: chatbots 
 
@@ -79,5 +79,5 @@ ignore those warnings
 - In case of group-wide failure: have a backup communication channel (SlackChat if Skype fails) + recovery strategy ("If Skype fails to connect to our meeting room, let's meet in Slack and talk about what to do")
 - In case of individual failure: for every team member, have a way to connect (best backup: telephone)
 - establish a procedure for interrupts, for example ringing door bell during group conversation: write "Someone is at the door, brb" into the group-wide chat. => current speaker is not disturbed + everyone knows what's going on 
-- use status messages in your messager (Skype etc) => "Free for chat" (ICQ) vs "I'm busy" => that's not even possible in "the real world" except you put a sticker on your forehead
+- use status messages in your messenger (Skype etc) => "Free for chat" (ICQ) vs "I'm busy" => that's not even possible in "the real world" except you put a sticker on your forehead
 - establish understanding of "ping" / "pong" in messaging
