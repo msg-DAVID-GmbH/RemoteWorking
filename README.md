@@ -1,4 +1,4 @@
-# Remote Working - What it is, what it can be for your team and how to make it so
+# Remote Working - What it is, what it can be for your team and how to achieve it
 
 ![alt text](slides/intro.jpg)
 
