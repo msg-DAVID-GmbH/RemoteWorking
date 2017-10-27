@@ -86,6 +86,7 @@ remote-first team:
   - gets the best of the best - worldwide => opposite of "Let's do remote, it's cheaper!" because great software craftsmen will cost money, regardless of where they are.
   - ("Remote" p. 31) "Working outside the Box", IBM white paper, 2009: 1,9 billion $ from selling office space + > 1 billion $ less leasing per year
   - chance to keep employees who move due to family reasons
+  - access experts in whole company, not just on-site.
 - employee:
   - choosing when to "work": only invoice most productive hours, sleep / play / go shopping in the meantime
   - "new luxury": go surfing everyday while working for a company in Norway instead of the nice loft in the city of your employer.
