@@ -9,4 +9,5 @@
 - [How to assign tasks, Hassan Osman, The couch manager](http://www.thecouchmanager.com/assign-tasks-avoid-bystander-effect-video/)
 - [How a single workd can influence your team, Hassan Osman, The couch manager](http://www.thecouchmanager.com/single-word-can-influence-team-video/)
 - [9 trust building activities for virtual teams, Hassan Osman, The couch manager](http://www.thecouchmanager.com/trust-building-activities-for-teams/)
+- [Working on the Spring Data Team](http://blog.schauderhaft.de/2017/11/12/working-spring-data-team/)
 

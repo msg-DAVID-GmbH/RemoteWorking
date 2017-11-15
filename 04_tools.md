@@ -1,5 +1,6 @@
 # Tools
 - misconception, that remote working is just about the tools - tools make only possible what has to be learned
+- However: "Pretty much everybody works remote on the Spring teams. So tools like Slack, Google Hangout, Skype, E-Mail and even Twitter are essential" (from [Working on the Spring Data Team](http://blog.schauderhaft.de/2017/11/12/working-spring-data-team/))
 
 ## requirements
 
