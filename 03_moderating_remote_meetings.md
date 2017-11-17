@@ -47,6 +47,7 @@ Moderator should know the phases every meeting should have:
 
 - best practice every participant sitting before his/her own webcam
 - only if that's not possible, use meeting room
+- however, most difficult setting: hybrid meeting (number of persons in one room, several remote participants)
 - remote-sitting colleagues have to be cared about in a special way:
    - at the beginning, state names of people present
    - during meeting, comment on things happening ("Joe just came in and joined us", "Michael is drawing something on the flip chart")
@@ -60,6 +61,9 @@ Moderator should know the phases every meeting should have:
 - in case of voice-only meeting AND participants not known to each other: makes everyone speaking tell their name: "This is Martin, I just wanted to add ..."
 - "over-communicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
 - also over-communicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
+
+## Nice Tool to prevent extremely long discussions: ELMO-rule
+- from [Change Leader's Network](http://changeleadersnetwork.com/great-meeting-facilitation-technique): " If someone yells ELMO during the meeting, then the facilitator pauses and asks for a vote. (Majority rules, although you can of course set your own decision protocol.) If the majority agrees that it is “enough, let’s move on,” then the facilitator stops the discussion and moves on to the next topic. If the majority disagrees, then you keep with the current discussion."
 
 # Exercise
 ## Analysis: How good are your meetings?
