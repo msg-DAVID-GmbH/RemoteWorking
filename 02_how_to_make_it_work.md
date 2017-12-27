@@ -28,6 +28,7 @@
 - pay attention to what is happening in your video stream: presentation for customers in a clean room without personal stuff visible. Presentation for team: cat running on the desktop great, creates personal touch
 
 ## Prepare your team
+- if just one member of team is remote, the whole team has to be remote!
 - overlapping timezones
 - declare "default-timezone". What is meant with "Let's meet at 8 a.m.?"
 - virtual water cooler
