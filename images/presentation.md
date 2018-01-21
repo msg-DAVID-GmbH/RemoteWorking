@@ -60,7 +60,7 @@ stevenschwenke.de
 ---
 
 ## multi-site team
-![alt text](multiSideTeam.png)
+![alt text](multiSiteTeam.png)
 
 ---
 

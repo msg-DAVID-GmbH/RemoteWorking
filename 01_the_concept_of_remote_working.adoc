@@ -1,39 +1,44 @@
-# The concept of remote working
-## What is it about?
-### Some definitions
-![alt text](slides/someDefinitions.png)
+= The concept of remote working
+:toc:
+:toclevels: 1
+:sectnums:
+:imagesdir: images
 
-- [Martin Fowler](https://martinfowler.com/articles/remote-or-co-located.html): geographies of remote teams:
+== What is it about?
+=== Some definitions
+image:someDefinitions.png[]
+
+- https://martinfowler.com/articles/remote-or-co-located.html[Martin Fowler] geographies of remote teams:
 
 single-site team:
 
-<img src="slides/singleSideTeam.png" width=300>
+image:singleSideTeam.png[]
 
 multi-site team:
 
-<img src="slides/multiSideTeam.png" width=300>
+image:multiSiteTeam.png[]
 
 satellite workers:
 
-<img src="slides/satelliteWorkers.png" width=300>
+image:satelliteWorkers.png[]
 
 remote-first team:
 
-<img src="slides/remoteFirstTeam.png" width=300>
+image:remoteFirstTeam.png[]
 
 - Remote = "everything outside of this floor", doesn't matter if India or coffee shop around the corner - "out is out"
 - not just local changes, also temporal changes, for example opposite of "9 to 5" = "My company gets the premium 8 hours of my day where I can focus the most."
 
-### Current status in the industry
+=== Current status in the industry
 
-![alt text](slides/futureIsAlreadyHere.png)
+image:futureIsAlreadyHere.png[]
 
 - "The future is already here - it's just not evenly distributed" (William Gibson) - what we're talking about here is the present. Don't let anybody tell you "maybe in the future".
 
-![alt text](slides/noSilverBullet.png)
+image:noSilverBullet.png[]
 
 - Companies with remote workers: ebay, IBM, Accenture (see "Remote" p. 80)
-- However: some important tech companies prefer co-located work: [Yahoo](https://www.fastcompany.com/3020930/yahoo-says-that-killing-working-from-home-is-turning-out-perfectly), Google, Netflix. 
+- However: some important tech companies prefer co-located work: https://www.fastcompany.com/3020930/yahoo-says-that-killing-working-from-home-is-turning-out-perfectly[Yahoo], Google, Netflix.
 - There's no works-for-all solution, applying working remotely depends on circumstances. 
 - only applies to knowledge workers with creative and thoughtful work
 - offices = invention from the 18th and 19th century
@@ -43,9 +48,9 @@ remote-first team:
 - relatively new concept because technology only available since a couple of years: internet, cheap fast portable computers, webcams, headsets, ...
 - provoking thought: "As a good developer, these days you have to be able to work remotely"
 
-## Remote working has to be learned and is not for everyone
+== Remote working has to be learned and is not for everyone
 
-![alt text](slides/remoteWorkingHasToBeLearned.png)
+image:remoteWorkingHasToBeLearned.png[]
 
 - new possibility of distributed work doesn't mean that every team should be remote!
 - distributed work != faster / better than co-located work
@@ -59,9 +64,9 @@ remote-first team:
 - remote working is learnable and has to be learned
 - focus of this workshop: cases, where distributed working is reality. 
 
-## Reputation
+== Reputation
 
-![alt text](slides/reputation.png)
+image:reputation.png[]
 
 - employees: Wanna have!
 - employers: (often) no-go
@@ -76,10 +81,10 @@ remote-first team:
   - only use generated passwords that are managed via password safe
   - two factor authentication (additional dongle or app for pin)
 - Change of mindset: working remotely != "cheaper", but "We as tech-leaders need the best workers from around the world!" - that's an additional dimension to "think remote"
-- extreme form: "[digital nomads](https://travel.hostfully.com/why-i-quit-my-job-sold-all-my-stuff-moved-out-of-my-nyc-apartment-and-became-a-digital-nomad-1c5f50754563)"
+- extreme form: https://travel.hostfully.com/why-i-quit-my-job-sold-all-my-stuff-moved-out-of-my-nyc-apartment-and-became-a-digital-nomad-1c5f50754563[digital nomads]
  
-## Consequences
-### If it works
+== Consequences
+=== If it works
 - employer:
   - only gets the most productive hours
   - in comparison to 9 to 5: employer pays for sitting on chair in a specific time slot
@@ -92,30 +97,30 @@ remote-first team:
   - "new luxury": go surfing everyday while working for a company in Norway instead of the nice loft in the city of your employer.
   - ("Remote" p. 32) telecommuter 10.000$ per year less costs for commuting
 
-### If it doesn't work
+=== If it doesn't work
 - employee invoices his long lunch breaks and idle time
 - think: What would an employer most likely notice: the third consecutive missed deadline because of laziness or a friendly, ever-present employee who doesn't do anything?
 - remote working focuses on the work done, not how you can sell yourself with chitchat in the office.
 
-### new information age "industrialization"
+=== new information age "industrialization"
 - during industrialization: growth of cities (because that's where factories are)
 - during information age: working from your cabin in the woods (with satellite internet)
 
-## Variations
+== Variations
 - remote work != another country / continent. Imagine just working part time and not driving to work for just 3 hours.
 - working from onsite (location of customer) = working from inside the office = working from home
 - => remote = state of mind. Enable it and see what happens!
 
-## Current situation in Germany
+== Current situation in Germany
 - more and more need for nearshore (for example Romania) or offshore (for example China or India) in Germany
 - reason: cost reduction from german industry
 - consequence in German IT: customer contact, analysis and creation of requirements furthermore in Germany, also decision-making about architectures and technologies. Implementation however more and more offsite.
 - => more need for coordination and communication in management
 - more need for understanding business logic for every consultant in Germany
 
-## What does that mean to you?
+== What does that mean to you?
 
-![alt text](slides/whatWillYouMakeOfThis.png)
+image:whatWillYouMakeOfThis.png[]
 
 - You will be compared to people from all over the world. Find your niche and be awesome!
 - Employers will hire people who write well. Learn that!

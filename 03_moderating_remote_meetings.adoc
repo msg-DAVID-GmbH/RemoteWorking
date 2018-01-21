@@ -1,33 +1,39 @@
-# Moderating remote meetings
+= Moderating remote meetings
+:toc:
+:toclevels: 1
+:sectnums:
+:imagesdir: images
+
 - every meeting needs moderator role, especially remote meeting
-- [a conference call in real life (youtube, 4:04)](https://www.youtube.com/watch?v=DYu_bGbZiiQ)
+- https://www.youtube.com/watch?v=DYu_bGbZiiQ[a conference call in real life (youtube, 4:04)]
 - no long presentations without interactions of participants. Develop drawings etc. during presentation to create involvement and action
 
-## phases of a meeting
+== Phases of a meeting
 
-![alt text](slides/phasesOfAMeeting.png)
+image:phasesOfAMeeting.png[]
 
 Moderator should know the phases every meeting should have:
-1. Beginning and smalltalk => check list of participants, create setting, let everybody speak
-2. Introduction = warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
-3. Visualized content. Activate participants per direct speech, proactively get feedback
-4. Wrap up and tasks: Get agreement about the content of the meeting
-5. Closing
-6. Postprocessing and retrospective "What was good, what can be done better next time?"
 
-## Moderator before the meeting
+. Beginning and smalltalk => check list of participants, create setting, let everybody speak
+. Introduction = warmup, present goals of the meeting, explain structure and rules to follow (like "mute your mic if not speaking")
+. Visualized content. Activate participants per direct speech, proactively get feedback
+. Wrap up and tasks: Get agreement about the content of the meeting
+. Closing
+. Postprocessing and retrospective "What was good, what can be done better next time?"
+
+== Moderator before the meeting
 
 - moderator has several tasks before, during and after a meeting:
 
-![alt text](slides/meetingBefore.png)
+image:meetingBefore.png[]
 
 - being on time one of the most important things when working remotely
 - to be ready for unforeseen events: login at least 15 minutes before meeting begin (remaining time can be used with muted mic)
 - makes everyone else join at least 5 minutes before begin
 
-## Moderator at the meeting
+== Moderator at the meeting
 
-![alt text](slides/meetingDuring.png)
+image:meetingDuring.png[]
 
 - introduces meeting with "Can everybody here me?" => "Yes" from everyone = confirmation that audio is great. Also great: thumbs up / down = immediate synchronous response from everybody
 - if participants don't usually meet in this constellation, make everybody talk a little via simple questions like "Everybody had a great weekend?", "What's your favorite color/food/whatever?". Background: Surgeons do this to minimize fear of talking during a surgery. That way, nobody has a psychological fear of calling out problems. 
@@ -35,15 +41,15 @@ Moderator should know the phases every meeting should have:
 - keeps an eye to the chat - that's the remaining way of communication for those who suffered audio failure
 - makes everybody not speaking mute their microphones
 
-## Moderator after the meeting
+== Moderator after the meeting
 
-![alt text](slides/meetingAfter.png)
+image:meetingAfter.png[]
 
 - retrospective of your role as a moderator, findings during the meeting-process, specific tasks for next time
 
-## locations layout
+== locations layout
 
-![alt text](slides/locationsLayout.png)
+image:locationsLayout.png[]
 
 - best practice every participant sitting before his/her own webcam
 - only if that's not possible, use meeting room
@@ -57,16 +63,16 @@ Moderator should know the phases every meeting should have:
 - "ambassador-rule": in bigger meetings, use an ambassador who watches the chat for questions and comments. Moderator asks co-moderator from time to time if something happened, ambassador interrupts moderator if urgent questions arise.
 - when video-chatting with multiple people, direct the camera to the person speaking. Alternatively, deactivate automatic zoom.
 
-## Participants of virtual meetings
+== Participants of virtual meetings
 - in case of voice-only meeting AND participants not known to each other: makes everyone speaking tell their name: "This is Martin, I just wanted to add ..."
 - "over-communicate" ("overuse" body language, facial expressions and gestures to communicate all the time) 
 - also over-communicate in content: check + paraphrase what you heard: "This is Joe. Is it right that you said X, Y and Z? Just want to make sure I understood you." 
 
-## Nice Tool to prevent extremely long discussions: ELMO-rule
-- from [Change Leader's Network](http://changeleadersnetwork.com/great-meeting-facilitation-technique): " If someone yells ELMO during the meeting, then the facilitator pauses and asks for a vote. (Majority rules, although you can of course set your own decision protocol.) If the majority agrees that it is “enough, let’s move on,” then the facilitator stops the discussion and moves on to the next topic. If the majority disagrees, then you keep with the current discussion."
+== Nice Tool to prevent extremely long discussions: ELMO-rule
+- from http://changeleadersnetwork.com/great-meeting-facilitation-technique[Change Leader's Network]: " If someone yells ELMO during the meeting, then the facilitator pauses and asks for a vote. (Majority rules, although you can of course set your own decision protocol.) If the majority agrees that it is “enough, let’s move on,” then the facilitator stops the discussion and moves on to the next topic. If the majority disagrees, then you keep with the current discussion."
 
-# Exercise
-## Analysis: How good are your meetings?
+= Exercise
+== Analysis: How good are your meetings?
 - gather in groups of two, max. three where every group member should be in the same project.
 - Create an Amazon-rating of what is good and what is bad in the way your current meetings are held. An Amazon-rating consists of a 5-star-rating, a short (one-liner) summary and a short text.
 - Analyze the root cause (for example with the 5-Why-technique) of these problems.
