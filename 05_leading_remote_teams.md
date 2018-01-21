@@ -10,7 +10,7 @@
 - "pilot voice",
     - originated by Chuck Yeager, US Air Force pilot, first one to break sound barrier
     - speech pattern emulated by individual pilots without explicit instruction to do so
-    - cool, collected, "down-home calmness", relaxed, in-charge, unconcerned
+    - cool, collected, "down-home calmness", relaxed, in-charge, unconcerned (however these were not good virtues of fighter pilots, see book "The right stuff")
 
 ## Trust equation
 ![alt_text](slides/trustEquation.png)
