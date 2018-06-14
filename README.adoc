@@ -35,9 +35,16 @@ Working remotely, having digital team members or coding from the Starbucks at th
 Also, there will be some [exercises](06_exercises.md) to perform.
 
 == Online-Meeting Cheat Sheet
-The awesome designers of https://msg-david.de/[msg DAVID] created a cheat sheet with the most relevant facts about how to conduct remote meetings. You can find the pdf in _handouts_.
+The awesome designers of https://msg-david.de/[msg DAVID] created a cheat sheet with the most relevant facts about how to conduct remote meetings:
 
 image:remoteWorkingCheatSheetThumb.png[]
+
+Also, there's a checklist for how to do remote working:
+
+image:remoteWorkingChecklistThumb.png[]
+
+
+You find both pdfs in _handouts_.
 
 == Organizational
 The workshop is considered to be a full-day workshop. However, it heavily relies on the activity and experiences of the participants. It's estimated to have *a length of five to eight hours*.
